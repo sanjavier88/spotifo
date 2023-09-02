@@ -3,6 +3,7 @@
 @import './menu.css';
 
 .sidebar {
+    /* border: 1px solid red; */
     background: var(--gray60);
     display: flex;
     gap: 1.5rem;

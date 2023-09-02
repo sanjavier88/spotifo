@@ -5,6 +5,7 @@
 @import './now-playing.css';
 
 .player {
+    /* border: 10px solid green; */
     display: flex;
     gap: 1.5rem;
     padding: 1rem;

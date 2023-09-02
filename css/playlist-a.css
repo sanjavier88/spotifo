@@ -1,0 +1,24 @@
+.playlistA {
+   /* border: 1px solid red; */
+   inline-size: 13em;
+   padding: 1rem;
+   border-radius: .25rem;
+   background: var(--gray40);
+   box-sizing: border-box;
+}
+
+.playlistA-cover img{
+
+}
+
+.playlistA-cover {
+   /* border: 1px solid red; */
+   position: relative;
+
+}
+
+.playlistA button{
+   position: absolute;
+}
+
+
